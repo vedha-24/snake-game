@@ -1,5 +1,5 @@
 # snake-game
- snake game in javascript
+the snake game created using javascript and HTML5 canvas
  
 ## Published Link
 
